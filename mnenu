@@ -4,8 +4,8 @@ color2='\e[32;1m'
 color3='\e[0m'
 clear
 echo -e ""
-echo -e "*====================[ ${color1}AUTOSCRIPT KAIZENVPN${color3} ]==================="
-echo -e "============================[ ${color2}MENU ]============================"
+echo -e "=====================[ ${color1}AUTOSCRIPT KAIZENVPN${color3} ]==================="
+echo -e "============================[ ${color2}MENU${color3} ]============================"
 echo -e "* ${color2}menu${color3}         : Senarai Menu"
 echo -e ""
 echo -e "========================[ ${color2}SSH & OPENVPN${color3} ]======================="
