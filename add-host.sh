@@ -1,4 +1,6 @@
 #!/bin/bash
+MYIP=$(wget -qO- icanhazip.com);
+echo "Script By KaizenVPN"
 clear
 echo ""
 read -rp "Domain/Host: " -e host
